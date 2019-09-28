@@ -7,3 +7,4 @@ echo file pushed
 
 push it to repository
 
+comments: instrument exclusion  logic to be added
